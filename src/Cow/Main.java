@@ -7,6 +7,5 @@ public class Main {
         Cow cow = new Whale();
 
         cow.printName();
-        ((Whale) cow).whaleMethod();
     }
 }
